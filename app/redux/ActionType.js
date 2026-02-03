@@ -9,4 +9,4 @@ export const SIGN_UP = "SIGN_UP_TO_FIREBASE";
 export const AUTHENTICATED = "AUTHENTICATED_FROM_FIREBASE";
 export const LOGOUT_USER = "LOGOUT_FROM_REDUX";
 
-export const API_KEY = "AIzaSyB49C7nB2pxvj9z2BJ03H311KMnRNOZ3bE";
+export const API_KEY = "ggggh";
